@@ -18,4 +18,4 @@ echo "echo ' |_|  |_|_|\__, | \_/\_/ \___|_|\___/ |_|'" >> ~/.bashrc
 echo "echo '            __/ |                        '" >> ~/.bashrc
 echo "echo '           |___/                         '" >> ~/.bashrc
 echo "echo '-----------------------------------------'" >> ~/.bashrc
-echo "echo ' Date: \$(date)                          '" >> ~/.bashrc
+echo "timedatectl" >> ~/.bashrc
