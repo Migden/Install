@@ -8,13 +8,13 @@ sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/master/tools/insta
 
 # Change .bashrc to show MOTD
 
-echo "echo '  __  __ _                   __  ___  __ '" >> ~/.bashrc
-echo "echo ' |  \/  (_)                 /_ |/ _ \/_ |'" >> ~/.bashrc
-echo "echo ' | \  / |_  __ ___      _____| | | | || |'" >> ~/.bashrc
-echo "echo ' | |\/| | |/ _  \ \ /\ / / _ \ | | | || |'" >> ~/.bashrc
-echo "echo ' | |  | | | (_| |\ V  V /  __/ | |_| || |'" >> ~/.bashrc
-echo "echo ' |_|  |_|_|\__, | \_/\_/ \___|_|\___/ |_|'" >> ~/.bashrc
-echo "echo '            __/ |                        '" >> ~/.bashrc
-echo "echo '           |___/                         '" >> ~/.bashrc
-echo "echo '-----------------------------------------'" >> ~/.bashrc
-echo "timedatectl" >> ~/.bashrc
+echo "echo '  __  __ _                   __  ___  __ '" >> ~/.zshrc
+echo "echo ' |  \/  (_)                 /_ |/ _ \/_ |'" >> ~/.zshrc
+echo "echo ' | \  / |_  __ ___      _____| | | | || |'" >> ~/.zshrc
+echo "echo ' | |\/| | |/ _  \ \ /\ / / _ \ | | | || |'" >> ~/.zshrc
+echo "echo ' | |  | | | (_| |\ V  V /  __/ | |_| || |'" >> ~/.zshrc
+echo "echo ' |_|  |_|_|\__, | \_/\_/ \___|_|\___/ |_|'" >> ~/.zshrc
+echo "echo '            __/ |                        '" >> ~/.zshrc
+echo "echo '           |___/                         '" >> ~/.zshrc
+echo "echo '-----------------------------------------'" >> ~/.zshrc
+echo "timedatectl" >> ~/.zshrc
